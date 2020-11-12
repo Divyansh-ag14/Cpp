@@ -28,7 +28,7 @@ int main(void){
 	
 	int a = 1;
 	for(i=0; i<n; i++){
-		while(a <=n){
+		while(a < n){
 			if(f[i] > f[a]){
 				flag = 1;
 				break;

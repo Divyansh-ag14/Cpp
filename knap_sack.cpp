@@ -12,7 +12,7 @@ int main(void){
 	
 	// ((using float to get deciaml value of ratio))
 	
-	float weights[n], value[n]; // weights and value store the (input weight and profit value repectively)
+	float weights[n], value[n]; // weights[] and value[] store the (input weight and profit value repectively)
 	
 	float sum_weight=0, sum_value=0;  // to store the entire sum of weights[] and value[]
 	
